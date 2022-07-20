@@ -1,0 +1,20 @@
+1-How do referenced types differ from primitive types?
+
+ans:Referenced types use pointers to addresses.
+ 
+
+ 
+2-Why do programmers use data structures rather than individual values?
+
+ans:for ease of access
+ 
+
+ 
+3-Which data type only uses one bit per instance?
+
+ans:Boolean
+ 
+
+4-Which data type uses the most storage per value?
+
+ans:ong
