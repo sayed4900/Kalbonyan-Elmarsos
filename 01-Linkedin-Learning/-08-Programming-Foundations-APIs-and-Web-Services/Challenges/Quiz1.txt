@@ -1,0 +1,44 @@
+1)Which communication mechanism has a more lightweight architecture?
+
+asn:APIs
+ 
+2)What does authorization mean in terms of web service security?
+
+ans:what a user can do
+
+
+
+3)Which status code is returned when the user is not authorized to call a web service?
+
+ans:401
+
+
+
+
+4)What is one common alternative to web services?
+
+ans:library
+
+ 
+5)What are the two most common concerns when using web services?
+
+ans:latency and partial failures
+ 
+
+6)What feature allows the service provider and the service client to be written in different programming languages?
+
+ans:language transparency
+ 
+
+7)What does the use of web service reduce in order to deliver more powerful applications?
+
+ans:development time
+
+
+8)Which is a common web language used to transfer data?
+
+ans:XML
+
+9)Who are the two parties that typically interact when using web services?
+
+ans:client and server

@@ -1,0 +1,11 @@
+1)SOAP is preferred for high security and/or complex transactions.
+
+ans:TRUE
+
+2)What does the acronym WSDL stand for?
+
+ans:Web Services Description Language
+ 
+3)What is one quality of ACID compliance?
+
+ans:consistency

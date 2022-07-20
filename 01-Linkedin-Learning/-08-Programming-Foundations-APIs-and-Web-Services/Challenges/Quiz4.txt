@@ -1,0 +1,11 @@
+1)Just like SOAP and REST APIs, Graph QL returns a rigid structure of data back to client.
+
+ans:FALSE
+
+2)When using GraphQL, which defines a set of types?
+
+ans:schema
+
+3)Data cannot be changed using GraphQL.
+
+ans:FALSE
