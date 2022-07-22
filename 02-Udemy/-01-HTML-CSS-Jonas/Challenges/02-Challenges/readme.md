@@ -1,3 +1,3 @@
 # Build Responsive Real-World Websites with HTML and CSS
-![image] ![image](https://user-images.githubusercontent.com/103145317/180471602-3c91372f-5ed5-463a-8c47-caa5fe1e893b.png)
+![image](https://user-images.githubusercontent.com/103145317/180475742-0e45c0d4-f291-476e-b85b-ce410798e284.png)
 
