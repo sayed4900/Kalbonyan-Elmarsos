@@ -27,7 +27,7 @@
 ### Bankist Site
 
 - [Project-code](./Projects/Bankist-Site)
-- [Live Demo]()
+- [Live Demo](https://sayed-bankist-site.netlify.app/)
 
 ### Mapty
 
