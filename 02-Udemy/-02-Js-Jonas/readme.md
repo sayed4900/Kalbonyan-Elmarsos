@@ -22,7 +22,7 @@
 ### Bankist
 
 - [Project-code](./Projects/Bankist)
-- [Live Demo]()
+- [Live Demo]() https://sayed-bankist.netlify.app/
 
 ### Bankist Site
 
