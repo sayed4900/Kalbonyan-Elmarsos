@@ -17,12 +17,12 @@
 ### Pig Game
 
 - [Project-code](./Projects/Pig-Game)
-- [Live Demo]() https://sayed-abdo490.netlify.app/
+- [Live Demo](https://sayed-abdo490.netlify.app/) 
 
 ### Bankist
 
 - [Project-code](./Projects/Bankist)
-- [Live Demo]() https://sayed-bankist.netlify.app/
+- [Live Demo](https://sayed-bankist.netlify.app/) 
 
 ### Bankist Site
 
