@@ -1,4 +1,5 @@
-var budget = [
+'strict mode';
+const budget = [
   { value: 250, description: 'Sold old TV 📺', user: 'jonas' },
   { value: -45, description: 'Groceries 🥑', user: 'jonas' },
   { value: 3500, description: 'Monthly salary 👩‍💻', user: 'jonas' },
@@ -9,18 +10,18 @@ var budget = [
   { value: -1800, description: 'New Laptop 💻', user: 'jonas' },
 ];
 
-var spendingLimits = {
+const spendingLimits = {
   jonas: 1500,
   matilda: 100,
 };
 
 const getLimit = user => spendingLimits?.[user] ?? 0;
 
-var addExpense = function (value, description, user) {
+const addExpense = function (value, description, user) {
   if (!user) user = 'jonas';
   user = user.toLowerCase();
 
-  // var lim;
+  // const lim;
   // if (limits[user]) {
   //   lim = limits[user];
   // } else {
