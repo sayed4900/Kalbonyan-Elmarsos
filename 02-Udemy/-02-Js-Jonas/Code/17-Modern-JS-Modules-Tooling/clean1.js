@@ -17,8 +17,7 @@ const spendingLimits = {
 
 const getLimit = user => spendingLimits?.[user] ?? 0;
 
-const addExpense = function (value, description, user) {
-  if (!user) user = 'jonas';
+const addExpense = function (value, description, user = 'sayed') {
   user = user.toLowerCase();
 
   // const lim;
