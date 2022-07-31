@@ -12,11 +12,11 @@
 ## Projects
 ### Omnifood
 - [Project-code](./Projects/Omnifood) <br>
-- [Live Demo]https://omnifood-sayed490.netlify.app/
+- [Live Demo](https://omnifood-sayed490.netlify.app/)
 ---
 ## Code
 - [Code](Code)
 ---
 [Course-Link](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3)<br>
 
-![Certificate]https://www.udemy.com/certificate/UC-1fe8ded1-760c-46d7-8cbb-06ff813e6766/
+![Certificate](https://www.udemy.com/certificate/UC-1fe8ded1-760c-46d7-8cbb-06ff813e6766/)
