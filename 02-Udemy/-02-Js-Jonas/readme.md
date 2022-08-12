@@ -37,7 +37,7 @@
 ### Forkify
 
 - [Project-code](./Projects/Forkify)
-- [Live Demo]()
+- [Live Demo](https://sayed-forkfiy.netlify.app/)
 
 ---
 
@@ -49,4 +49,4 @@
 
 [Course-Link](https://www.udemy.com/course/the-complete-javascript-course/)<br>
 
-![Certificate](https://via.placeholder.com/468x300?text=Certificate+Here)
+[Certificate](https://www.udemy.com/certificate/UC-9c9fa437-8771-4a99-8cd5-feb1250675a0/)
