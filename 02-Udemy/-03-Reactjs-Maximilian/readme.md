@@ -10,7 +10,7 @@
 
   <br/>
 
-- [Section 3 Project Live Demo]()
+- [Section 3 Project Live Demo](https://sayed-react-first-site.netlify.app/)
 - [Section 4 Project Live Demo]()
 - [Section 5 Project Live Demo]()
 
