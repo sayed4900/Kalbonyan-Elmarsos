@@ -11,7 +11,7 @@
   <br/>
 
 - [Section 3 Project Live Demo](https://sayed-react-first-site.netlify.app/)
-- [Section 4 Project Live Demo]()
+- [Section 4 Project Live Demo](https://sayed-react-first-site-update-one.netlify.app/)
 - [Section 5 Project Live Demo]()
 
 ### goals app (S6-S7)
