@@ -21,7 +21,7 @@
 
 <br/>
 
-- [Section 6 Project Live Demo]()
+- [Section 6 Project Live Demo](https://sayed-style-comp-react-app.netlify.app/)
 - [Section 7 Project Live Demo]()
 
 ### Section 8-9 Project
