@@ -41,7 +41,7 @@
 
 ### Section 12 Project
 
-- [Project-code](https://github.com/sayed4900/Kalbonyan-Elmarsos/tree/main/02-Udemy/-03-Reactjs-Maximilia)
+- [Project-code](./Projects/S12-project)
 - [Live Demo](https://sayed-react-behind.netlify.app/)
 
 ### Section 13 Project
