@@ -41,7 +41,7 @@
 
 ### Section 12 Project
 
-- [Project-code]([./Projects/order-food-app/S12-project/](https://github.com/sayed4900/Kalbonyan-Elmarsos/tree/main/02-Udemy/-03-Reactjs-Maximilian/Projects/S12-project))
+- [Project-code](https://github.com/sayed4900/Kalbonyan-Elmarsos/tree/main/02-Udemy/-03-Reactjs-Maximilia)
 - [Live Demo](https://sayed-react-behind.netlify.app/)
 
 ### Section 13 Project
