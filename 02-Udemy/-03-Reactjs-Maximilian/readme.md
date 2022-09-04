@@ -41,8 +41,8 @@
 
 ### Section 12 Project
 
-- [Project-code](https://sayed-react-behind.netlify.app/)
-- [Live Demo]()
+- [Project-code]()
+- [Live Demo](https://sayed-react-behind.netlify.app/)
 
 ### Section 13 Project
 
