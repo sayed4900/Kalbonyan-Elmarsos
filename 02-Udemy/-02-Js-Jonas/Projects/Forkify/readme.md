@@ -1,2 +1,2 @@
 # The Complete JavaScript Course 2022: From Zero to Expert!
-- [Project-code](./Projects/Forkify)
+- [Live Demo](https://sayed-forkfiy.netlify.app/)
